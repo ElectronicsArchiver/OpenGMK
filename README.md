@@ -9,7 +9,14 @@
 <div align = center>
 
   **This project is not affiliated with `GameMaker™` nor `YoYo Games Ltd`**
-  
+
+---
+
+**⸢ [About] ⸥**  
+**⸢ [Build] ⸥**  
+**⸢ [Usage] ⸥**  
+**⸢ [Errors] ⸥**
+
 </div>
 
 ---
@@ -51,7 +58,7 @@ discuss details, by opening an issue for example.
 
 <br>
 
-## Additional Credits
+## Credits
 
 **[@DatZach]**
 
@@ -66,7 +73,19 @@ discuss details, by opening an issue for example.
 
 [Badge License]: https://img.shields.io/badge/License-GPL_v2-blue.svg
 [Badge Status]: https://img.shields.io/static/v1?label=Status&message=Work%20In%20Progress&color=9c3066
+
 [License]: LICENSE.md
+
+
+<!---------------------------------{ Credits }--------------------------------->
 
 [@Jabberwock-RU]: https://github.com/Jabberwock-RU
 [@DatZach]: https://github.com/DatZach
+
+
+<!--------------------------------{ QuickLinks }------------------------------->
+
+[Errors]: Documentation/Errors.md
+[Usage]: Documentation/Usage.md
+[Build]: Documentation/Build.md
+[About]: Documentation/About.md
