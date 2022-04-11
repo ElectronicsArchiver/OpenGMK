@@ -1,4 +1,4 @@
-# OpenGMK [![Badge License]][License] ![Badge Status]
+# OpenGMK [![Badge License]][License] ![Badge Status]   <kbd><br> **This project is not affiliated with** <br>  **` GameMaker™ ` nor ` YoYo Games Ltd `** <br> </kbd>
 
 *A Modern **Rewrite** Of The **GameMaker** Classic Engines*
 
@@ -7,11 +7,7 @@
 ---
 
 <div align = center>
-
-  **This project is not affiliated with `GameMaker™` nor `YoYo Games Ltd`**
-
----
-
+ 
 **⸢ [About] ⸥**  
 **⸢ [Build] ⸥**  
 **⸢ [Usage] ⸥**  
