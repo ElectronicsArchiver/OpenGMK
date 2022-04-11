@@ -4,6 +4,18 @@
 
 <br>
 
+---
+
+<div align = center>
+
+  **This Project is not affiliated with `GameMaker™` nor `YoYo Games Ltd`**
+  
+</div>
+
+---
+
+<br>
+
 ## Features
 
 - ***Worked on almost every day!***
@@ -33,12 +45,6 @@ This project has only been worked on by a few people so far in their little free
 ## Additional Credits
 - [[https://github.com/DatZach][DatZach]] for creating the original free and open source decompiler.
 - [[https://github.com/Jabberwock-RU][Jabberwock-RU]] for creating the new project icon and logos.
-
-<br>
-
-## License
-
-is in no way affiliated with /GameMaker™/ or /YoYo Games Ltd./
 
 
 <!----------------------------------------------------------------------------->
