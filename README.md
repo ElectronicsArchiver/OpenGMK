@@ -8,7 +8,7 @@
 
 <div align = center>
 
-  **This Project is not affiliated with `GameMaker™` nor `YoYo Games Ltd`**
+  **This project is not affiliated with `GameMaker™` nor `YoYo Games Ltd`**
   
 </div>
 
@@ -38,7 +38,16 @@
 <br>
 
 ## Contributing
-This project has only been worked on by a few people so far in their little free time. Contributions are always welcome, although we'd prefer if you got in contact beforehand to discuss details (opening an issue, for example). All contributions are licensed under the same licence as the project.
+
+*This project has only been worked on by a* <br>
+*few people so far in their little free time.* 
+
+**Contributions are always welcome**, although <br>
+we'd prefer if you got in contact beforehand to <br>
+discuss details, by opening an issue for example.
+
+*All contributions are licensed under* <br>
+*the same licence as the project.*
 
 <br>
 
