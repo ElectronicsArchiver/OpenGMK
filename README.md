@@ -5,14 +5,14 @@
 
 ## Features
 
+- ***Worked on almost every day!***
+- ***Regular updates & feature additions***
+
+
 - Full sourceport of the runner
 - Gamedata Libraries
 - TASing Framework
 - Decompiler
-
-It's being worked on almost every day! We’re constantly adding new features and updating the code.
-
- 
 
 ## Caution
 
