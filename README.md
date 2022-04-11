@@ -33,7 +33,7 @@
 ## Caution
 
 *Until there's an official stable release, please note* <br>
-*that your save-states may break in future releases.*
+*that your save - states may break in future releases.*
 
 <br>
 
@@ -52,8 +52,14 @@ discuss details, by opening an issue for example.
 <br>
 
 ## Additional Credits
-- [[https://github.com/DatZach][DatZach]] for creating the original free and open source decompiler.
-- [[https://github.com/Jabberwock-RU][Jabberwock-RU]] for creating the new project icon and logos.
+
+**[@DatZach]**
+
+  *FOSS decompiler*
+    
+**[@Jabberwock-RU]**
+
+  *New Project Icons / Logos*
 
 
 <!----------------------------------------------------------------------------->
@@ -61,3 +67,6 @@ discuss details, by opening an issue for example.
 [Badge License]: https://img.shields.io/badge/License-GPL_v2-blue.svg
 [Badge Status]: https://img.shields.io/static/v1?label=Status&message=Work%20In%20Progress&color=9c3066
 [License]: LICENSE.md
+
+[@Jabberwock-RU]: https://github.com/Jabberwock-RU
+[@DatZach]: https://github.com/DatZach
